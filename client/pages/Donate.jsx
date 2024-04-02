@@ -7,6 +7,7 @@ const Donate = () => {
         <Navbar />
         <h1 className="text-3xl text-center text-red-600  py-2 px-4">Make a Donation</h1>
         <DonationForm />
+        gfg
       </div>
     );
 };
